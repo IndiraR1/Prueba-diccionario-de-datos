@@ -10,5 +10,3 @@ nombreDeAtributo _descripcion
 • Tipo de auditoria_Tipo de la auditoría
 • Fecha de auditoria_Fecha de la auditoría
 • Enlace al informe_Enlace al informe de auditoría
-<img width="987" height="265" alt="image" src="https://github.com/user-attachments/assets/cabd5916-7dca-4a42-98fb-d19ed8bc1cca" />
- 
